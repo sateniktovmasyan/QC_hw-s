@@ -1,1 +1,1 @@
-# QC_hw-s
+# QC_hw-sharing jupyter notebook
